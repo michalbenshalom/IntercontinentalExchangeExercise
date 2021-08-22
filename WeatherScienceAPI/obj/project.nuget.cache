@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ctc4iTVu1PHS8uoBeS3fVn7DwixdFEvmvJ7vUbJfV8SREcnwmmip9UNVI+TBLPx6XpwjeqZwNjGZ6QbyDjUDxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michalbe\\Downloads\\ICE\\Intercontinental Exchange Exercise\\WeatherScienceAPI\\WeatherScienceAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michalbe\\.nuget\\packages\\amazon.core\\0.19.1\\amazon.core.0.19.1.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\amazon.s3\\0.19.2\\amazon.s3.0.19.2.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\awssdk.core\\3.7.2.4\\awssdk.core.3.7.2.4.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\awssdk.s3\\3.7.1.24\\awssdk.s3.3.7.1.24.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\carbon.storage\\3.0.0\\carbon.storage.3.0.0.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

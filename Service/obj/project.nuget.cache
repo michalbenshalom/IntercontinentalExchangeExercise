@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "s28CilSRqOjcWUS7os1vyBKnLalpbmwNilT7Fp0J+cRQv/yGmWLDYSi9n99rPziM2MxsG9TILMSpVsTaYTvBEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michalbe\\Downloads\\ICE\\Intercontinental Exchange Exercise\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michalbe\\.nuget\\packages\\amazon.core\\0.19.1\\amazon.core.0.19.1.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\amazon.s3\\0.19.2\\amazon.s3.0.19.2.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\awssdk.core\\3.7.2.4\\awssdk.core.3.7.2.4.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\awssdk.s3\\3.7.1.24\\awssdk.s3.3.7.1.24.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\carbon.storage\\3.0.0\\carbon.storage.3.0.0.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Michalbe\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

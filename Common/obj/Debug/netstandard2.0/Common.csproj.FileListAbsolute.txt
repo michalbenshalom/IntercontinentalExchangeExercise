@@ -1,0 +1,9 @@
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Michalbe\Downloads\ICE\Intercontinental Exchange Exercise\Common\obj\Debug\netstandard2.0\Common.pdb
